@@ -1,0 +1,23 @@
+body {
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family: 'Roboto', 'Segoe UI', Tahoma, 'Geneva', Verdana, sans-serif;
+    color: grey;
+     background-color: rgb(198, 177, 57) 
+}
+
+
+div {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+h1, td{
+    color: rgb(0, 0, 0);
+}
+img{
+    width: 9.1rem;
+    height: auto;
+    border-radius: 1rem;
+    border-color:rgb(184, 161, 32)  ;
+    
+}
