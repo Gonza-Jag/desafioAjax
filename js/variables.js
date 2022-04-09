@@ -1,5 +1,5 @@
 const inputFiltrar = document.querySelector("#filtrar")
 const tbody = document.querySelector("tbody")
-let arrayContactos = ""
+let arrayRanking = ""
 
-const URL = "js/contactos.json"
+const URL = "js/ranking.json"
